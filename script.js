@@ -30,8 +30,6 @@ for (i = 0; i < catArray.length; i++) {
 function logToConsole(aniamals) {
   console.log(aniamals);
 }
-logToConsole("dog");
 // question 10
-logToConsole("donkey")
-// question
-// question
+logToConsole("donkey");
+
